@@ -4,6 +4,7 @@ var http = require('http');
 var path = require('path');
 var lessMiddleware = require('less-middleware');
 
+var config = require('./config');
 var routes = require('./routes/index');
 //var sockets = require('./sockets');
 
