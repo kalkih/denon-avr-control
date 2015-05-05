@@ -23,4 +23,5 @@ ehthumbs.db
 
 # Do not include generated files
 launch.json
-/typings
+typings
+.settings
